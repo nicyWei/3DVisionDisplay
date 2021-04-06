@@ -135,7 +135,7 @@ if __name__ == "__main__":
         runDraw(paraList[0],paraList[1],paraList[2]);
   
     '''
-    #runDrawWithParameter("C:\\GW\\GW\\SC2\\BIGData\\output\\Demo\\distribution\\sample\\20190213025224_19_53.txt","C:\\GW\\GW\\SC2\\BIGData\\output\\Demo\\image\\Sample\\test\\6.jpg",'3D',20);
+    
     
     defaultlayer = 30;
     if sys.argv.__len__() == 5:
