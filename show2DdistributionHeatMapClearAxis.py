@@ -149,9 +149,7 @@ def generate2Denv(axisList,xtick,ytick,dxmim,dxmax,dymin,dymax,resetAxis,width,l
 
         ax.axes.get_yaxis().set_visible(False);
         ax.axes.get_xaxis().set_visible(False);
-        #plt.xticks(());
-        #plt.yticks(());
-    #plt.show();
+
     return plt;#[max_X,max_Y];
         
 
